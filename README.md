@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**isaquevelozo/isaquevelozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❓ Me chamo Isaque
+- 📓 Sou estudante
+- 🌱 Atualmente estou aprendendo ReactNative
+- 🎯 Tenho a base de Desenvolvimento Web(HTML,CSS,JS,Git,GitHub)
+- 🎯 Tenho interesse pelo universo JS
 
-Here are some ideas to get you started:
+![GitHub status](https://github-readme-stats.vercel.app/api?username=isaquevelozo&show_icons=true&theme=midnight-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div  align="left">
+<a href="https://github.com/isaquevelozo"></a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquevelozo&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
+</div>
+
+[![Perfil Rocketseat](https://img.shields.io/badge/Perfil-Rocketseat-blueviolet)](https://www.rocketseat.com.br)
+
+![Perfil LinkedIn](https://img.shields.io/badge/Perfil-LinkedIn-blue)
+
+![Snake animation](https://github.com/isaquevelozo/isaquevelozo/blob/output/github-contribution-grid-snake.svg)
