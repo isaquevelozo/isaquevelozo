@@ -1,10 +1,9 @@
 # Olá 👋
 
-- ❓ Me chamo Isaque
-- 📓 Sou estudante
-- 🌱 Atualmente estou aprendendo ReactNative
-- 🎯 Tenho a base de Desenvolvimento Web(HTML,CSS,JS,Git,GitHub)
-- 🎯 Tenho interesse pelo universo JS
+- :tophat: Me chamo Isaque
+- :briefcase: Desenvolverdor Pleno em React Native
+- :fountain_pen: Designer(UI)
+
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=isaquevelozo&show_icons=true&theme=midnight-purple)
 
@@ -14,7 +13,7 @@
 </div>
 
 [![Perfil Rocketseat](https://img.shields.io/badge/Perfil-Rocketseat-blueviolet)](https://www.rocketseat.com.br)
-
+<a href="https://www.linkedin.com/in/isaque-velozo-4731b0250/">
 ![Perfil LinkedIn](https://img.shields.io/badge/Perfil-LinkedIn-blue)
-
+</a>
 ![Snake animation](https://github.com/isaquevelozo/isaquevelozo/blob/output/github-contribution-grid-snake.svg)
