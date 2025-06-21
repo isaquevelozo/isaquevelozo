@@ -1,7 +1,7 @@
 # Olá 👋
 
 - :tophat: Me chamo Isaque
-- :briefcase: Desenvolverdor Pleno em React Native
+- :briefcase: Desenvolverdor React Native - Jr.
 - :fountain_pen: Designer(UI)
 
 
